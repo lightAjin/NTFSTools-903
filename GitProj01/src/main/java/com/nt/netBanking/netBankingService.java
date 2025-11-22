@@ -29,6 +29,9 @@ public class netBankingService {
 		System.out.println("netBankingService.xyz()");
 		
 	}
+	public String hello() {
+		return "Hello World";
+	}
 
 }
 
