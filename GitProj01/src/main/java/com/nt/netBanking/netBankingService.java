@@ -25,5 +25,7 @@ public class netBankingService {
 		return "Transferring"+ amt +"from "+srcAccno+" to "+descAccno;
 
 	}
+	
+
 }
 
