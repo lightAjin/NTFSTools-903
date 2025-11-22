@@ -8,7 +8,6 @@ public class netBankingService {
 		return "Account is open with acc number "+new Random().nextLong(50000000000000L);
 	}
 	
-	
 	public String closeAccount() {
 		return "Account is closed";
 	}
