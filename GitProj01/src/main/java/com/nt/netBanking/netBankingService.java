@@ -25,7 +25,10 @@ public class netBankingService {
 		return "Transferring"+ amt +"from "+srcAccno+" to "+descAccno;
 
 	}
-	
+	public void xyz(){
+		System.out.println("netBankingService.xyz()");
+		
+	}
 
 }
 
