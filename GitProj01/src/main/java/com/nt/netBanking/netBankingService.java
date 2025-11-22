@@ -13,5 +13,6 @@ public class netBankingService {
 	public String deposit(long accno,double amt) {
 		return amt+" is deposit from a/c number::"+accno;
 	}
+	//dafg
 }
 
